@@ -18,12 +18,8 @@ import ast
 # # importing modules from other scripts.....
 
 
-
 from response import read_csv
 from hashed import hash_json
-
-
-
 
 
 

@@ -8,9 +8,6 @@ import json
 
 # setting the file path
 
-
-
-
 # storing the data
 data = {}
 def read_csv():
